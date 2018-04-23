@@ -1,0 +1,25 @@
+Source: dseg
+Maintainer: Sebastian Bachmann <hello@reox.at>
+Section: fonts
+Priority: optional
+Build-Depends: debhelper (>= 9), fontforge
+
+Package: fonts-dseg-ttf
+Architecture: any
+Description: Seven/Fourteen Segment Fonts
+ TTF Version
+ DSEG is a free font which imitate LCD Display
+ (7SEG, 14SEG, Weather icons etc.). DSEG have special features:
+ * Includes the roman-alphabet and symbol glyphs.
+ * Many types(over 50) are available.
+ * Licensed under SIL OPEN FONT LICENSE Version 1.1
+
+Package: fonts-dseg-otf
+Architecture: any
+Description: Seven/Fourteen Segment Fonts
+ OTF Version
+ DSEG is a free font which imitate LCD Display
+ (7SEG, 14SEG, Weather icons etc.). DSEG have special features:
+ * Includes the roman-alphabet and symbol glyphs.
+ * Many types(over 50) are available.
+ * Licensed under SIL OPEN FONT LICENSE Version 1.1
